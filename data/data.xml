@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+    <district>
+        <name>Lacs</name>
+        <chefLieu>Dimbokro</chefLieu>
+        <region chef-lieu="Dimbokro">N'zi</region>
+        <region chef-lieu="Daoukro">Iffou</region>
+        <region chef-lieu="Toumodi">Bélier</region>
+        <region chef-lieu="Bongouanou">Moronou</region>
+    </district>
+    <district>
+        <name>Comoé</name>
+        <chefLieu>Abengourou</chefLieu>
+        <region chef-lieu="Abengourou">Indénié-Djuablin</region>
+        <region chef-lieu="Aboisso">Sud-Comoé</region>
+    </district>
+    <district>
+        <name>Denguélé</name>
+        <chefLieu>Odienné</chefLieu>
+        <region chef-lieu="Minignan">Folon</region>
+        <region chef-lieu="Odienné">Kabadougou</region>
+    </district>
+    <district>
+        <name>Gôh-Djiboua</name>
+        <chefLieu>Gagnoa</chefLieu>
+        <region chef-lieu="Gagnoa">Gôh</region>
+        <region chef-lieu="Divo">Lôh-Djiboua</region>
+    </district>
+    <district>
+        <name>Lagunes</name>
+        <chefLieu>Dabou</chefLieu>
+        <region chef-lieu="Agboville">Agnéby-Tiassa</region>
+        <region chef-lieu="Adzopé">Mé</region>
+        <region chef-lieu="Dabou">Grands Ponts</region>
+    </district>
+    <district>
+        <name>Montagnes</name>
+        <chefLieu>Man</chefLieu>
+        <region chef-lieu="Man">Tonkpi</region>
+        <region chef-lieu="Guiglo">Cavally</region>
+        <region chef-lieu="Duékoué">Guémon</region>
+    </district>
+    <district>
+        <name>Sassandra-Marahoué</name>
+        <chefLieu>Daloa</chefLieu>
+        <region chef-lieu="Daloa">Haut-Sassandra</region>
+        <region chef-lieu="Bouaflé">Marahoué</region>
+    </district>
+    <district>
+        <name>Savanes</name>
+        <chefLieu>Korhogo</chefLieu>
+        <region chef-lieu="Korhogo">Poro</region>
+        <region chef-lieu="Ferkessédougou">Tchologo</region>
+        <region chef-lieu="Boundiali">Bagoué</region>
+    </district><district>
+        <name>Bas-Sassandra</name>
+        <chefLieu>San-Pédro</chefLieu>
+        <region chef-lieu="Soubré">Nawa</region>
+        <region chef-lieu="San-Pédro">San-Pédro</region>
+        <region chef-lieu="Sassandra">Gbôklé</region>
+    </district>
+    <district>
+        <name>Vallée du Bandama</name>
+        <chefLieu>Bouaké</chefLieu>
+        <region chef-lieu="Katiola">Hambol</region>
+        <region chef-lieu="Bouaké">Gbêkê</region>
+    </district>
+    <district>
+        <name>Woroba</name>
+        <chefLieu>Séguéla</chefLieu>
+        <region chef-lieu="Mankono">Béré</region>
+        <region chef-lieu="Touba">Bafing</region>
+        <region chef-lieu="Séguéla">Worodougou</region>
+    </district>
+    <district>
+        <name>Zanzan</name>
+        <chefLieu>Bondoukou</chefLieu>
+        <region chef-lieu="Bouna">Bounkani</region>
+        <region chef-lieu="Bondoukou">Gontougo</region>
+    </district>
+</dataset>
